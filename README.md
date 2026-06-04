@@ -66,7 +66,7 @@ A Chrome extension that researches companies directly from LinkedIn job postings
 | 🎓 **M.A. Rhetoric & Composition** | First-generation college graduate |
 | 🎓 B.A. English Literature | Minor: Psychology & Communications
 | ⚙️ **OrangeMethod Engineering Bootcamp** | Competitively selected, Home Depot internal program |
-| 🏗️ **18 years @ The Home Depot** | Cashier → Leader across multiple departments |
+| 🏗️ **17 years @ The Home Depot** | Cashier → Leader across multiple departments |
 | ☁️ **AWS SAA-C03** | Currently studying |
 
 ---
