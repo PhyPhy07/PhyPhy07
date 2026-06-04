@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-<img width="3300" height="3300" alt="octocat" src="https://github.com/user-attachments/assets/c7d81b20-5358-4a13-abd0-358e60513441" />
+<img width="150" height="150" alt="octocat" src="https://github.com/user-attachments/assets/c7d81b20-5358-4a13-abd0-358e60513441" />
 
 ```
 ██████╗ ██╗  ██╗██╗   ██╗██████╗ ███████╗
