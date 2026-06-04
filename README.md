@@ -105,6 +105,6 @@ I'm probably wrangling my four dogs — **Bronx**, **Booker**, **Basil**, and **
 
 ---
 
-📬 [LinkedIn](https://linkedin.com/in/phyliciasneed) · 🌐 [phyre-storm.dev](https://phyre-storm.dev) ·
+📬 [LinkedIn](https://www.linkedin.com/in/phylicia-sneed/) · 🌐 [phyre-storm.dev](https://phyre-storm.dev) ·
 
 </div>
