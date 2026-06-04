@@ -14,8 +14,6 @@
 </td>
 <td><img alt="octocat" src="https://github.com/user-attachments/assets/323efac1-0cf5-4e8c-a6c8-23b65fbc9860" width="150"/></td>
 
-</tr></table>
-<img width="3300" height="3300" alt="octocat" src="https://github.com/user-attachments/assets/323efac1-0cf5-4e8c-a6c8-23b65fbc9860" />
 
 ### Phylicia M. Sneed · Software Engineer
 #### Houston, TX · [phyre-storm.dev](https://phyre-storm.dev)
